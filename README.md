@@ -1,0 +1,2 @@
+# ChinSystem
+faculty attendance system
